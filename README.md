@@ -1,6 +1,16 @@
 # covid_19_tracker_app_with_flutter
 
-A new Flutter project.
+This is a Covid-19 Tracker app developed with flutter and Rest API. The App contains a animated splash Screen and beautifull UI showing the affected countries with count of deaths, affected, recovered and other categories. The figures are get from the "https://disease.sh/v3/covid-19/" This is my first App developed with Rest API.
+
+## 📸 ScreenShots
+
+| 1 | 2|
+|------|-------|
+|<img src="ss4.jpeg" width="400">|<img src="ss3.jpeg" width="400">|
+
+| 3 | 4|
+|------|-------|
+|<img src="ss1.jpeg" width="400">|<img src="ss2.jpeg" width="400">|
 
 ## Getting Started
 
